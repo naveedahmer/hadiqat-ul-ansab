@@ -12,3 +12,9 @@ The scanned volumes are attached to the [latest release](../../releases/latest):
 | Volume Two · جلد دوم | 284 | 387 MB |
 
 Volume Two has been re-saved from the original 916 MB scan at the same resolution, with no visible loss of detail.
+
+## Page images
+
+Every manuscript page as a WebP image, for the family website's source viewer: `v1/061.webp` (1600 px wide) and
+`v1/061-thumb.webp` (400 px), numbered by the page number written in the book (Vol 1: 1–382, Vol 2: 1–269).
+Served at https://naveedahmer.github.io/hadiqat-ul-ansab/
